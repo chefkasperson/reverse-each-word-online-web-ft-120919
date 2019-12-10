@@ -7,6 +7,6 @@ def reverse_each_word(sentence)
     u = z.join
     final_array << u
   }
-  final_array.join(" ")
-
+  q = final_array.join(" ")
+  q
 end
